@@ -1,0 +1,27 @@
+{
+  "name": "practice-development-environment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnmms/practice-development-environment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnmms/practice-development-environment/issues"
+  },
+  "homepage": "https://github.com/mnmms/practice-development-environment#readme",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "webpack": "^5.44.0",
+    "webpack-cli": "^4.7.2"
+  }
+}
