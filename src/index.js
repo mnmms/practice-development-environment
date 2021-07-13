@@ -1,1 +1,1 @@
-console.log("src/index.js");
+console.log("webpack");
